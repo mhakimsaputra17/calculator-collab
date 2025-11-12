@@ -1,0 +1,21 @@
+{
+  "name": "calculator-collab",
+  "version": "1.0.0",
+  "description": "Project kalkulator kolaboratif untuk 7 anggota tim menggunakan **Fork Workflow**.",
+  "homepage": "https://github.com/hilmy07/calculator-collab#readme",
+  "bugs": {
+    "url": "https://github.com/hilmy07/calculator-collab/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilmy07/calculator-collab.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
