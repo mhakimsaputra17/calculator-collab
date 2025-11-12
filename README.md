@@ -16,7 +16,7 @@ Project ini adalah kalkulator sederhana yang dikembangkan secara kolaboratif den
 | Task 4 | Pembagian (Division) | [ghifar](https://github.com/ghifar1327) | ✅ Done |
 | Task 5 | Modulus (Remainder) | [albaihaqi](https://github.com/Albaihaqi354) | 🔄 In Progress |
 | Task 6 | Pangkat (Power) | [rahman](https://github.com/rahmans11) | 🔄 In Progress |
-| Task 7 | Akar Kuadrat (Square Root) | [adit](https://github.com/adityabastyas) | 🔄 In Progress |
+| Task 7 | Akar Kuadrat (Square Root) | [adit](https://github.com/adityabastyas) | ✅  DONE |
 
 
 
